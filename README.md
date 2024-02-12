@@ -1,1 +1,1 @@
-# Amplitude-Modulation-and-Demodulation-Module
+# Amplitude Modulation and Demodulation Module
